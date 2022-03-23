@@ -1,0 +1,1834 @@
+{
+	"page": 1,
+	"limit": 200,
+	"pages": 1,
+	"total": 15,
+	"_links": {
+		"self": {
+			"href": "/vereine/verein/ahauser-maidy-dogs/1-jugend/spielplan/2022?page=1&limit=200"
+		},
+		"first": {
+			"href": "/vereine/verein/ahauser-maidy-dogs/1-jugend/spielplan/2022?page=1&limit=200"
+		},
+		"last": {
+			"href": "/vereine/verein/ahauser-maidy-dogs/1-jugend/spielplan/2022?page=1&limit=200"
+		}
+	},
+	"_embedded": {
+		"schedule": [
+			{
+				"has_result": true,
+				"is_pending": false,
+				"is_regular_result": true,
+				"is_after_overtime": false,
+				"is_after_penalty_shoot_out": false,
+				"is_forfeit": false,
+				"has_been_cancelled": false,
+				"has_been_aborted": false,
+				"is_home_win": false,
+				"is_home_loss": true,
+				"is_away_win": true,
+				"is_away_loss": false,
+				"is_tie": false,
+				"winning_team": {
+					"club": {
+						"id": 31,
+						"name": "Crash Eagles Kaarst",
+						"short_name": "CEK",
+						"website": {
+							"url": "http://www.crasheagles.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/crash-eagles-kaarst"
+							},
+							"logo": {
+								"href": "/vereine/verein/crash-eagles-kaarst/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Crash Eagles Kaarst II",
+					"short_name": "CEK II",
+					"short_club_name": "CEK",
+					"alternate_team_name": "2. Jugend",
+					"number_int": 2,
+					"club_name": "Crash Eagles Kaarst",
+					"number_roman": "II",
+					"team_id": 376,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/crash-eagles-kaarst/2-jugend"
+						}
+					}
+				},
+				"losing_team": {
+					"club": {
+						"id": 46,
+						"name": "Ahauser Maidy Dogs",
+						"short_name": "ASV",
+						"website": {
+							"url": "http://www.maidy-dogs.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/ahauser-maidy-dogs"
+							},
+							"logo": {
+								"href": "/vereine/verein/ahauser-maidy-dogs/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Ahauser Maidy Dogs I",
+					"short_name": "ASV I",
+					"short_club_name": "ASV",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Ahauser Maidy Dogs",
+					"number_roman": "I",
+					"team_id": 177,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/ahauser-maidy-dogs/1-jugend"
+						}
+					}
+				},
+				"comments": "Pokal Jugend 1.Runde",
+				"is_not_needed": false,
+				"estimated_end_time": "2022-02-20T18:30:00+01:00",
+				"id": 7,
+				"date_time": "2022-02-20T16:30:00+01:00",
+				"home_team": {
+					"club": {
+						"id": 46,
+						"name": "Ahauser Maidy Dogs",
+						"short_name": "ASV",
+						"website": {
+							"url": "http://www.maidy-dogs.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/ahauser-maidy-dogs"
+							},
+							"logo": {
+								"href": "/vereine/verein/ahauser-maidy-dogs/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Ahauser Maidy Dogs I",
+					"short_name": "ASV I",
+					"short_club_name": "ASV",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Ahauser Maidy Dogs",
+					"number_roman": "I",
+					"team_id": 177,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/ahauser-maidy-dogs/1-jugend"
+						}
+					}
+				},
+				"away_team": {
+					"club": {
+						"id": 31,
+						"name": "Crash Eagles Kaarst",
+						"short_name": "CEK",
+						"website": {
+							"url": "http://www.crasheagles.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/crash-eagles-kaarst"
+							},
+							"logo": {
+								"href": "/vereine/verein/crash-eagles-kaarst/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Crash Eagles Kaarst II",
+					"short_name": "CEK II",
+					"short_club_name": "CEK",
+					"alternate_team_name": "2. Jugend",
+					"number_int": 2,
+					"club_name": "Crash Eagles Kaarst",
+					"number_roman": "II",
+					"team_id": 376,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/crash-eagles-kaarst/2-jugend"
+						}
+					}
+				},
+				"venue": "Ahauser Hockeyhalle / Ahaus",
+				"home_goals": 0,
+				"away_goals": 10,
+				"has_game_sheet": true,
+				"league": {
+					"season": {
+						"year": 2022
+					},
+					"code": "PJug",
+					"name": "Pokalwettbewerb Jugend",
+					"type": "P",
+					"age_group": "Jugend",
+					"_links": {
+						"self": {
+							"href": "/saison/2022/ligen/pokalwettbewerb-jugend"
+						}
+					}
+				},
+				"_links": {
+					"self": {
+						"href": "/saison/2022/ligen/pokalwettbewerb-jugend/7_20-02-2022-16-30-pjug-ahauser-maidy-dogs-i-crash-eagles-kaarst-ii"
+					}
+				}
+			},
+			{
+				"has_result": true,
+				"is_pending": false,
+				"is_regular_result": true,
+				"is_after_overtime": false,
+				"is_after_penalty_shoot_out": false,
+				"is_forfeit": false,
+				"has_been_cancelled": false,
+				"has_been_aborted": false,
+				"is_home_win": true,
+				"is_home_loss": false,
+				"is_away_win": false,
+				"is_away_loss": true,
+				"is_tie": false,
+				"winning_team": {
+					"club": {
+						"id": 1,
+						"name": "Duisburg Ducks",
+						"short_name": "DUCKS",
+						"website": {
+							"url": "http://www.duisburg-ducks.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/duisburg-ducks"
+							},
+							"logo": {
+								"href": "/vereine/verein/duisburg-ducks/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Duisburg Ducks I",
+					"short_name": "DUCKS I",
+					"short_club_name": "DUCKS",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Duisburg Ducks",
+					"number_roman": "I",
+					"team_id": 120,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/duisburg-ducks/1-jugend"
+						}
+					}
+				},
+				"losing_team": {
+					"club": {
+						"id": 46,
+						"name": "Ahauser Maidy Dogs",
+						"short_name": "ASV",
+						"website": {
+							"url": "http://www.maidy-dogs.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/ahauser-maidy-dogs"
+							},
+							"logo": {
+								"href": "/vereine/verein/ahauser-maidy-dogs/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Ahauser Maidy Dogs I",
+					"short_name": "ASV I",
+					"short_club_name": "ASV",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Ahauser Maidy Dogs",
+					"number_roman": "I",
+					"team_id": 177,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/ahauser-maidy-dogs/1-jugend"
+						}
+					}
+				},
+				"comments": "",
+				"is_not_needed": false,
+				"estimated_end_time": "2022-03-05T15:00:00+01:00",
+				"id": 25,
+				"date_time": "2022-03-05T13:00:00+01:00",
+				"home_team": {
+					"club": {
+						"id": 1,
+						"name": "Duisburg Ducks",
+						"short_name": "DUCKS",
+						"website": {
+							"url": "http://www.duisburg-ducks.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/duisburg-ducks"
+							},
+							"logo": {
+								"href": "/vereine/verein/duisburg-ducks/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Duisburg Ducks I",
+					"short_name": "DUCKS I",
+					"short_club_name": "DUCKS",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Duisburg Ducks",
+					"number_roman": "I",
+					"team_id": 120,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/duisburg-ducks/1-jugend"
+						}
+					}
+				},
+				"away_team": {
+					"club": {
+						"id": 46,
+						"name": "Ahauser Maidy Dogs",
+						"short_name": "ASV",
+						"website": {
+							"url": "http://www.maidy-dogs.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/ahauser-maidy-dogs"
+							},
+							"logo": {
+								"href": "/vereine/verein/ahauser-maidy-dogs/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Ahauser Maidy Dogs I",
+					"short_name": "ASV I",
+					"short_club_name": "ASV",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Ahauser Maidy Dogs",
+					"number_roman": "I",
+					"team_id": 177,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/ahauser-maidy-dogs/1-jugend"
+						}
+					}
+				},
+				"venue": "Sporthalle Duisburg-Süd / Duisburg",
+				"home_goals": 26,
+				"away_goals": 0,
+				"has_game_sheet": true,
+				"league": {
+					"season": {
+						"year": 2022
+					},
+					"code": "2.JGWA",
+					"name": "2. Jugendliga West A",
+					"type": "M",
+					"age_group": "Jugend",
+					"_links": {
+						"self": {
+							"href": "/saison/2022/ligen/2-jugendliga-west-a"
+						}
+					}
+				},
+				"_links": {
+					"self": {
+						"href": "/saison/2022/ligen/2-jugendliga-west-a/25_05-03-2022-13-00-2-jgwa-duisburg-ducks-i-ahauser-maidy-dogs-i"
+					}
+				}
+			},
+			{
+				"has_result": true,
+				"is_pending": false,
+				"is_regular_result": true,
+				"is_after_overtime": false,
+				"is_after_penalty_shoot_out": false,
+				"is_forfeit": false,
+				"has_been_cancelled": false,
+				"has_been_aborted": false,
+				"is_home_win": true,
+				"is_home_loss": false,
+				"is_away_win": false,
+				"is_away_loss": true,
+				"is_tie": false,
+				"winning_team": {
+					"club": {
+						"id": 126,
+						"name": "CSL Detmold",
+						"short_name": "CSLD",
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/csl-detmold"
+							}
+						}
+					},
+					"full_name": "CSL Detmold I",
+					"short_name": "CSLD I",
+					"short_club_name": "CSLD",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "CSL Detmold",
+					"number_roman": "I",
+					"team_id": 507,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/csl-detmold/1-jugend"
+						}
+					}
+				},
+				"losing_team": {
+					"club": {
+						"id": 46,
+						"name": "Ahauser Maidy Dogs",
+						"short_name": "ASV",
+						"website": {
+							"url": "http://www.maidy-dogs.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/ahauser-maidy-dogs"
+							},
+							"logo": {
+								"href": "/vereine/verein/ahauser-maidy-dogs/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Ahauser Maidy Dogs I",
+					"short_name": "ASV I",
+					"short_club_name": "ASV",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Ahauser Maidy Dogs",
+					"number_roman": "I",
+					"team_id": 177,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/ahauser-maidy-dogs/1-jugend"
+						}
+					}
+				},
+				"comments": "",
+				"is_not_needed": false,
+				"estimated_end_time": "2022-03-12T16:00:00+01:00",
+				"id": 75,
+				"date_time": "2022-03-12T14:00:00+01:00",
+				"home_team": {
+					"club": {
+						"id": 126,
+						"name": "CSL Detmold",
+						"short_name": "CSLD",
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/csl-detmold"
+							}
+						}
+					},
+					"full_name": "CSL Detmold I",
+					"short_name": "CSLD I",
+					"short_club_name": "CSLD",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "CSL Detmold",
+					"number_roman": "I",
+					"team_id": 507,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/csl-detmold/1-jugend"
+						}
+					}
+				},
+				"away_team": {
+					"club": {
+						"id": 46,
+						"name": "Ahauser Maidy Dogs",
+						"short_name": "ASV",
+						"website": {
+							"url": "http://www.maidy-dogs.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/ahauser-maidy-dogs"
+							},
+							"logo": {
+								"href": "/vereine/verein/ahauser-maidy-dogs/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Ahauser Maidy Dogs I",
+					"short_name": "ASV I",
+					"short_club_name": "ASV",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Ahauser Maidy Dogs",
+					"number_roman": "I",
+					"team_id": 177,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/ahauser-maidy-dogs/1-jugend"
+						}
+					}
+				},
+				"venue": "AHF-Schule / Detmold",
+				"home_goals": 21,
+				"away_goals": 0,
+				"has_game_sheet": true,
+				"league": {
+					"season": {
+						"year": 2022
+					},
+					"code": "2.JGWA",
+					"name": "2. Jugendliga West A",
+					"type": "M",
+					"age_group": "Jugend",
+					"_links": {
+						"self": {
+							"href": "/saison/2022/ligen/2-jugendliga-west-a"
+						}
+					}
+				},
+				"_links": {
+					"self": {
+						"href": "/saison/2022/ligen/2-jugendliga-west-a/75_12-03-2022-14-00-2-jgwa-csl-detmold-i-ahauser-maidy-dogs-i"
+					}
+				}
+			},
+			{
+				"has_result": true,
+				"is_pending": false,
+				"is_regular_result": true,
+				"is_after_overtime": false,
+				"is_after_penalty_shoot_out": false,
+				"is_forfeit": false,
+				"has_been_cancelled": false,
+				"has_been_aborted": false,
+				"is_home_win": false,
+				"is_home_loss": true,
+				"is_away_win": true,
+				"is_away_loss": false,
+				"is_tie": false,
+				"winning_team": {
+					"club": {
+						"id": 227,
+						"name": "ESC Moskitos Essen",
+						"short_name": "ESCM",
+						"website": {
+							"url": "http://www.moskitos-essen.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/esc-moskitos-essen"
+							},
+							"logo": {
+								"href": "/vereine/verein/esc-moskitos-essen/logo.jpg"
+							}
+						}
+					},
+					"full_name": "ESC Moskitos Essen I",
+					"short_name": "ESCM I",
+					"short_club_name": "ESCM",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "ESC Moskitos Essen",
+					"number_roman": "I",
+					"team_id": 947,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/esc-moskitos-essen/1-jugend"
+						}
+					}
+				},
+				"losing_team": {
+					"club": {
+						"id": 46,
+						"name": "Ahauser Maidy Dogs",
+						"short_name": "ASV",
+						"website": {
+							"url": "http://www.maidy-dogs.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/ahauser-maidy-dogs"
+							},
+							"logo": {
+								"href": "/vereine/verein/ahauser-maidy-dogs/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Ahauser Maidy Dogs I",
+					"short_name": "ASV I",
+					"short_club_name": "ASV",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Ahauser Maidy Dogs",
+					"number_roman": "I",
+					"team_id": 177,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/ahauser-maidy-dogs/1-jugend"
+						}
+					}
+				},
+				"comments": "",
+				"is_not_needed": false,
+				"estimated_end_time": "2022-03-20T18:30:00+01:00",
+				"id": 143,
+				"date_time": "2022-03-20T16:30:00+01:00",
+				"home_team": {
+					"club": {
+						"id": 46,
+						"name": "Ahauser Maidy Dogs",
+						"short_name": "ASV",
+						"website": {
+							"url": "http://www.maidy-dogs.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/ahauser-maidy-dogs"
+							},
+							"logo": {
+								"href": "/vereine/verein/ahauser-maidy-dogs/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Ahauser Maidy Dogs I",
+					"short_name": "ASV I",
+					"short_club_name": "ASV",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Ahauser Maidy Dogs",
+					"number_roman": "I",
+					"team_id": 177,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/ahauser-maidy-dogs/1-jugend"
+						}
+					}
+				},
+				"away_team": {
+					"club": {
+						"id": 227,
+						"name": "ESC Moskitos Essen",
+						"short_name": "ESCM",
+						"website": {
+							"url": "http://www.moskitos-essen.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/esc-moskitos-essen"
+							},
+							"logo": {
+								"href": "/vereine/verein/esc-moskitos-essen/logo.jpg"
+							}
+						}
+					},
+					"full_name": "ESC Moskitos Essen I",
+					"short_name": "ESCM I",
+					"short_club_name": "ESCM",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "ESC Moskitos Essen",
+					"number_roman": "I",
+					"team_id": 947,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/esc-moskitos-essen/1-jugend"
+						}
+					}
+				},
+				"venue": "Ahauser Hockeyhalle / Ahaus",
+				"home_goals": 1,
+				"away_goals": 23,
+				"has_game_sheet": false,
+				"league": {
+					"season": {
+						"year": 2022
+					},
+					"code": "2.JGWA",
+					"name": "2. Jugendliga West A",
+					"type": "M",
+					"age_group": "Jugend",
+					"_links": {
+						"self": {
+							"href": "/saison/2022/ligen/2-jugendliga-west-a"
+						}
+					}
+				},
+				"_links": {
+					"self": {
+						"href": "/saison/2022/ligen/2-jugendliga-west-a/143_20-03-2022-16-30-2-jgwa-ahauser-maidy-dogs-i-esc-moskitos-essen-i"
+					}
+				}
+			},
+			{
+				"has_result": false,
+				"is_pending": false,
+				"is_regular_result": false,
+				"is_after_overtime": false,
+				"is_after_penalty_shoot_out": false,
+				"is_forfeit": false,
+				"has_been_cancelled": false,
+				"has_been_aborted": false,
+				"is_home_win": false,
+				"is_home_loss": false,
+				"is_away_win": false,
+				"is_away_loss": false,
+				"is_tie": false,
+				"comments": "",
+				"is_not_needed": false,
+				"estimated_end_time": "2022-04-02T16:00:00+02:00",
+				"id": 190,
+				"date_time": "2022-04-02T14:00:00+02:00",
+				"home_team": {
+					"club": {
+						"id": 105,
+						"name": "Brakel Blitz",
+						"short_name": "BLITZ",
+						"website": {
+							"url": "http://www.brakel-blitz.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/brakel-blitz"
+							},
+							"logo": {
+								"href": "/vereine/verein/brakel-blitz/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Brakel Blitz I",
+					"short_name": "BLITZ I",
+					"short_club_name": "BLITZ",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Brakel Blitz",
+					"number_roman": "I",
+					"team_id": 739,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/brakel-blitz/1-jugend"
+						}
+					}
+				},
+				"away_team": {
+					"club": {
+						"id": 46,
+						"name": "Ahauser Maidy Dogs",
+						"short_name": "ASV",
+						"website": {
+							"url": "http://www.maidy-dogs.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/ahauser-maidy-dogs"
+							},
+							"logo": {
+								"href": "/vereine/verein/ahauser-maidy-dogs/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Ahauser Maidy Dogs I",
+					"short_name": "ASV I",
+					"short_club_name": "ASV",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Ahauser Maidy Dogs",
+					"number_roman": "I",
+					"team_id": 177,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/ahauser-maidy-dogs/1-jugend"
+						}
+					}
+				},
+				"venue": "Halle im Generationenpark Bökendorfer Grund / Brakel",
+				"has_game_sheet": false,
+				"league": {
+					"season": {
+						"year": 2022
+					},
+					"code": "2.JGWA",
+					"name": "2. Jugendliga West A",
+					"type": "M",
+					"age_group": "Jugend",
+					"_links": {
+						"self": {
+							"href": "/saison/2022/ligen/2-jugendliga-west-a"
+						}
+					}
+				},
+				"_links": {
+					"self": {
+						"href": "/saison/2022/ligen/2-jugendliga-west-a/190_02-04-2022-14-00-2-jgwa-brakel-blitz-i-ahauser-maidy-dogs-i"
+					}
+				}
+			},
+			{
+				"has_result": false,
+				"is_pending": false,
+				"is_regular_result": false,
+				"is_after_overtime": false,
+				"is_after_penalty_shoot_out": false,
+				"is_forfeit": false,
+				"has_been_cancelled": false,
+				"has_been_aborted": false,
+				"is_home_win": false,
+				"is_home_loss": false,
+				"is_away_win": false,
+				"is_away_loss": false,
+				"is_tie": false,
+				"comments": "",
+				"is_not_needed": false,
+				"estimated_end_time": "2022-04-03T14:30:00+02:00",
+				"id": 251,
+				"date_time": "2022-04-03T12:30:00+02:00",
+				"home_team": {
+					"club": {
+						"id": 208,
+						"name": "Miners Oberhausen",
+						"short_name": "MINO",
+						"website": {
+							"url": "http://www.miners-oberhausen.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/miners-oberhausen"
+							},
+							"logo": {
+								"href": "/vereine/verein/miners-oberhausen/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Miners Oberhausen I",
+					"short_name": "MINO I",
+					"short_club_name": "MINO",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Miners Oberhausen",
+					"number_roman": "I",
+					"team_id": 745,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/miners-oberhausen/1-jugend"
+						}
+					}
+				},
+				"away_team": {
+					"club": {
+						"id": 46,
+						"name": "Ahauser Maidy Dogs",
+						"short_name": "ASV",
+						"website": {
+							"url": "http://www.maidy-dogs.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/ahauser-maidy-dogs"
+							},
+							"logo": {
+								"href": "/vereine/verein/ahauser-maidy-dogs/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Ahauser Maidy Dogs I",
+					"short_name": "ASV I",
+					"short_club_name": "ASV",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Ahauser Maidy Dogs",
+					"number_roman": "I",
+					"team_id": 177,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/ahauser-maidy-dogs/1-jugend"
+						}
+					}
+				},
+				"venue": "Karl-Heinz-Pflugbeil-Arena / Oberhausen",
+				"has_game_sheet": false,
+				"league": {
+					"season": {
+						"year": 2022
+					},
+					"code": "2.JGWA",
+					"name": "2. Jugendliga West A",
+					"type": "M",
+					"age_group": "Jugend",
+					"_links": {
+						"self": {
+							"href": "/saison/2022/ligen/2-jugendliga-west-a"
+						}
+					}
+				},
+				"_links": {
+					"self": {
+						"href": "/saison/2022/ligen/2-jugendliga-west-a/251_03-04-2022-12-30-2-jgwa-miners-oberhausen-i-ahauser-maidy-dogs-i"
+					}
+				}
+			},
+			{
+				"has_result": false,
+				"is_pending": false,
+				"is_regular_result": false,
+				"is_after_overtime": false,
+				"is_after_penalty_shoot_out": false,
+				"is_forfeit": false,
+				"has_been_cancelled": false,
+				"has_been_aborted": false,
+				"is_home_win": false,
+				"is_home_loss": false,
+				"is_away_win": false,
+				"is_away_loss": false,
+				"is_tie": false,
+				"comments": "",
+				"is_not_needed": false,
+				"estimated_end_time": "2022-05-21T17:30:00+02:00",
+				"id": 536,
+				"date_time": "2022-05-21T15:30:00+02:00",
+				"home_team": {
+					"club": {
+						"id": 17,
+						"name": "Mendener Mambas",
+						"short_name": "MAM",
+						"website": {
+							"url": "http://www.mambas-msc.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/mendener-mambas"
+							},
+							"logo": {
+								"href": "/vereine/verein/mendener-mambas/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Mendener Mambas I",
+					"short_name": "MAM I",
+					"short_club_name": "MAM",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Mendener Mambas",
+					"number_roman": "I",
+					"team_id": 255,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/mendener-mambas/1-jugend"
+						}
+					}
+				},
+				"away_team": {
+					"club": {
+						"id": 46,
+						"name": "Ahauser Maidy Dogs",
+						"short_name": "ASV",
+						"website": {
+							"url": "http://www.maidy-dogs.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/ahauser-maidy-dogs"
+							},
+							"logo": {
+								"href": "/vereine/verein/ahauser-maidy-dogs/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Ahauser Maidy Dogs I",
+					"short_name": "ASV I",
+					"short_club_name": "ASV",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Ahauser Maidy Dogs",
+					"number_roman": "I",
+					"team_id": 177,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/ahauser-maidy-dogs/1-jugend"
+						}
+					}
+				},
+				"venue": "Skaterhalle (Zöpidrom) / Iserlohn",
+				"has_game_sheet": false,
+				"league": {
+					"season": {
+						"year": 2022
+					},
+					"code": "2.JGWA",
+					"name": "2. Jugendliga West A",
+					"type": "M",
+					"age_group": "Jugend",
+					"_links": {
+						"self": {
+							"href": "/saison/2022/ligen/2-jugendliga-west-a"
+						}
+					}
+				},
+				"_links": {
+					"self": {
+						"href": "/saison/2022/ligen/2-jugendliga-west-a/536_21-05-2022-15-30-2-jgwa-mendener-mambas-i-ahauser-maidy-dogs-i"
+					}
+				}
+			},
+			{
+				"has_result": false,
+				"is_pending": false,
+				"is_regular_result": false,
+				"is_after_overtime": false,
+				"is_after_penalty_shoot_out": false,
+				"is_forfeit": false,
+				"has_been_cancelled": false,
+				"has_been_aborted": false,
+				"is_home_win": false,
+				"is_home_loss": false,
+				"is_away_win": false,
+				"is_away_loss": false,
+				"is_tie": false,
+				"comments": "",
+				"is_not_needed": false,
+				"estimated_end_time": "2022-06-12T18:30:00+02:00",
+				"id": 644,
+				"date_time": "2022-06-12T16:30:00+02:00",
+				"home_team": {
+					"club": {
+						"id": 46,
+						"name": "Ahauser Maidy Dogs",
+						"short_name": "ASV",
+						"website": {
+							"url": "http://www.maidy-dogs.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/ahauser-maidy-dogs"
+							},
+							"logo": {
+								"href": "/vereine/verein/ahauser-maidy-dogs/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Ahauser Maidy Dogs I",
+					"short_name": "ASV I",
+					"short_club_name": "ASV",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Ahauser Maidy Dogs",
+					"number_roman": "I",
+					"team_id": 177,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/ahauser-maidy-dogs/1-jugend"
+						}
+					}
+				},
+				"away_team": {
+					"club": {
+						"id": 126,
+						"name": "CSL Detmold",
+						"short_name": "CSLD",
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/csl-detmold"
+							}
+						}
+					},
+					"full_name": "CSL Detmold I",
+					"short_name": "CSLD I",
+					"short_club_name": "CSLD",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "CSL Detmold",
+					"number_roman": "I",
+					"team_id": 507,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/csl-detmold/1-jugend"
+						}
+					}
+				},
+				"venue": "Ahauser Hockeyhalle / Ahaus",
+				"has_game_sheet": false,
+				"league": {
+					"season": {
+						"year": 2022
+					},
+					"code": "2.JGWA",
+					"name": "2. Jugendliga West A",
+					"type": "M",
+					"age_group": "Jugend",
+					"_links": {
+						"self": {
+							"href": "/saison/2022/ligen/2-jugendliga-west-a"
+						}
+					}
+				},
+				"_links": {
+					"self": {
+						"href": "/saison/2022/ligen/2-jugendliga-west-a/644_12-06-2022-16-30-2-jgwa-ahauser-maidy-dogs-i-csl-detmold-i"
+					}
+				}
+			},
+			{
+				"has_result": false,
+				"is_pending": false,
+				"is_regular_result": false,
+				"is_after_overtime": false,
+				"is_after_penalty_shoot_out": false,
+				"is_forfeit": false,
+				"has_been_cancelled": false,
+				"has_been_aborted": false,
+				"is_home_win": false,
+				"is_home_loss": false,
+				"is_away_win": false,
+				"is_away_loss": false,
+				"is_tie": false,
+				"comments": "",
+				"is_not_needed": false,
+				"estimated_end_time": "2022-06-19T18:30:00+02:00",
+				"id": 695,
+				"date_time": "2022-06-19T16:30:00+02:00",
+				"home_team": {
+					"club": {
+						"id": 46,
+						"name": "Ahauser Maidy Dogs",
+						"short_name": "ASV",
+						"website": {
+							"url": "http://www.maidy-dogs.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/ahauser-maidy-dogs"
+							},
+							"logo": {
+								"href": "/vereine/verein/ahauser-maidy-dogs/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Ahauser Maidy Dogs I",
+					"short_name": "ASV I",
+					"short_club_name": "ASV",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Ahauser Maidy Dogs",
+					"number_roman": "I",
+					"team_id": 177,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/ahauser-maidy-dogs/1-jugend"
+						}
+					}
+				},
+				"away_team": {
+					"club": {
+						"id": 208,
+						"name": "Miners Oberhausen",
+						"short_name": "MINO",
+						"website": {
+							"url": "http://www.miners-oberhausen.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/miners-oberhausen"
+							},
+							"logo": {
+								"href": "/vereine/verein/miners-oberhausen/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Miners Oberhausen I",
+					"short_name": "MINO I",
+					"short_club_name": "MINO",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Miners Oberhausen",
+					"number_roman": "I",
+					"team_id": 745,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/miners-oberhausen/1-jugend"
+						}
+					}
+				},
+				"venue": "Ahauser Hockeyhalle / Ahaus",
+				"has_game_sheet": false,
+				"league": {
+					"season": {
+						"year": 2022
+					},
+					"code": "2.JGWA",
+					"name": "2. Jugendliga West A",
+					"type": "M",
+					"age_group": "Jugend",
+					"_links": {
+						"self": {
+							"href": "/saison/2022/ligen/2-jugendliga-west-a"
+						}
+					}
+				},
+				"_links": {
+					"self": {
+						"href": "/saison/2022/ligen/2-jugendliga-west-a/695_19-06-2022-16-30-2-jgwa-ahauser-maidy-dogs-i-miners-oberhausen-i"
+					}
+				}
+			},
+			{
+				"has_result": false,
+				"is_pending": false,
+				"is_regular_result": false,
+				"is_after_overtime": false,
+				"is_after_penalty_shoot_out": false,
+				"is_forfeit": false,
+				"has_been_cancelled": false,
+				"has_been_aborted": false,
+				"is_home_win": false,
+				"is_home_loss": false,
+				"is_away_win": false,
+				"is_away_loss": false,
+				"is_tie": false,
+				"comments": "",
+				"is_not_needed": false,
+				"estimated_end_time": "2022-08-21T18:30:00+02:00",
+				"id": 806,
+				"date_time": "2022-08-21T16:30:00+02:00",
+				"home_team": {
+					"club": {
+						"id": 46,
+						"name": "Ahauser Maidy Dogs",
+						"short_name": "ASV",
+						"website": {
+							"url": "http://www.maidy-dogs.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/ahauser-maidy-dogs"
+							},
+							"logo": {
+								"href": "/vereine/verein/ahauser-maidy-dogs/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Ahauser Maidy Dogs I",
+					"short_name": "ASV I",
+					"short_club_name": "ASV",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Ahauser Maidy Dogs",
+					"number_roman": "I",
+					"team_id": 177,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/ahauser-maidy-dogs/1-jugend"
+						}
+					}
+				},
+				"away_team": {
+					"club": {
+						"id": 105,
+						"name": "Brakel Blitz",
+						"short_name": "BLITZ",
+						"website": {
+							"url": "http://www.brakel-blitz.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/brakel-blitz"
+							},
+							"logo": {
+								"href": "/vereine/verein/brakel-blitz/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Brakel Blitz I",
+					"short_name": "BLITZ I",
+					"short_club_name": "BLITZ",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Brakel Blitz",
+					"number_roman": "I",
+					"team_id": 739,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/brakel-blitz/1-jugend"
+						}
+					}
+				},
+				"venue": "Ahauser Hockeyhalle / Ahaus",
+				"has_game_sheet": false,
+				"league": {
+					"season": {
+						"year": 2022
+					},
+					"code": "2.JGWA",
+					"name": "2. Jugendliga West A",
+					"type": "M",
+					"age_group": "Jugend",
+					"_links": {
+						"self": {
+							"href": "/saison/2022/ligen/2-jugendliga-west-a"
+						}
+					}
+				},
+				"_links": {
+					"self": {
+						"href": "/saison/2022/ligen/2-jugendliga-west-a/806_21-08-2022-16-30-2-jgwa-ahauser-maidy-dogs-i-brakel-blitz-i"
+					}
+				}
+			},
+			{
+				"has_result": false,
+				"is_pending": false,
+				"is_regular_result": false,
+				"is_after_overtime": false,
+				"is_after_penalty_shoot_out": false,
+				"is_forfeit": false,
+				"has_been_cancelled": false,
+				"has_been_aborted": false,
+				"is_home_win": false,
+				"is_home_loss": false,
+				"is_away_win": false,
+				"is_away_loss": false,
+				"is_tie": false,
+				"comments": "",
+				"is_not_needed": false,
+				"estimated_end_time": "2022-08-27T18:30:00+02:00",
+				"id": 830,
+				"date_time": "2022-08-27T16:30:00+02:00",
+				"home_team": {
+					"club": {
+						"id": 227,
+						"name": "ESC Moskitos Essen",
+						"short_name": "ESCM",
+						"website": {
+							"url": "http://www.moskitos-essen.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/esc-moskitos-essen"
+							},
+							"logo": {
+								"href": "/vereine/verein/esc-moskitos-essen/logo.jpg"
+							}
+						}
+					},
+					"full_name": "ESC Moskitos Essen I",
+					"short_name": "ESCM I",
+					"short_club_name": "ESCM",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "ESC Moskitos Essen",
+					"number_roman": "I",
+					"team_id": 947,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/esc-moskitos-essen/1-jugend"
+						}
+					}
+				},
+				"away_team": {
+					"club": {
+						"id": 46,
+						"name": "Ahauser Maidy Dogs",
+						"short_name": "ASV",
+						"website": {
+							"url": "http://www.maidy-dogs.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/ahauser-maidy-dogs"
+							},
+							"logo": {
+								"href": "/vereine/verein/ahauser-maidy-dogs/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Ahauser Maidy Dogs I",
+					"short_name": "ASV I",
+					"short_club_name": "ASV",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Ahauser Maidy Dogs",
+					"number_roman": "I",
+					"team_id": 177,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/ahauser-maidy-dogs/1-jugend"
+						}
+					}
+				},
+				"venue": "Helmut Rahn Sportanlage / Essen",
+				"has_game_sheet": false,
+				"league": {
+					"season": {
+						"year": 2022
+					},
+					"code": "2.JGWA",
+					"name": "2. Jugendliga West A",
+					"type": "M",
+					"age_group": "Jugend",
+					"_links": {
+						"self": {
+							"href": "/saison/2022/ligen/2-jugendliga-west-a"
+						}
+					}
+				},
+				"_links": {
+					"self": {
+						"href": "/saison/2022/ligen/2-jugendliga-west-a/830_27-08-2022-16-30-2-jgwa-esc-moskitos-essen-i-ahauser-maidy-dogs-i"
+					}
+				}
+			},
+			{
+				"has_result": false,
+				"is_pending": false,
+				"is_regular_result": false,
+				"is_after_overtime": false,
+				"is_after_penalty_shoot_out": false,
+				"is_forfeit": false,
+				"has_been_cancelled": false,
+				"has_been_aborted": false,
+				"is_home_win": false,
+				"is_home_loss": false,
+				"is_away_win": false,
+				"is_away_loss": false,
+				"is_tie": false,
+				"comments": "",
+				"is_not_needed": false,
+				"estimated_end_time": "2022-09-04T18:30:00+02:00",
+				"id": 905,
+				"date_time": "2022-09-04T16:30:00+02:00",
+				"home_team": {
+					"club": {
+						"id": 46,
+						"name": "Ahauser Maidy Dogs",
+						"short_name": "ASV",
+						"website": {
+							"url": "http://www.maidy-dogs.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/ahauser-maidy-dogs"
+							},
+							"logo": {
+								"href": "/vereine/verein/ahauser-maidy-dogs/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Ahauser Maidy Dogs I",
+					"short_name": "ASV I",
+					"short_club_name": "ASV",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Ahauser Maidy Dogs",
+					"number_roman": "I",
+					"team_id": 177,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/ahauser-maidy-dogs/1-jugend"
+						}
+					}
+				},
+				"away_team": {
+					"club": {
+						"id": 1,
+						"name": "Duisburg Ducks",
+						"short_name": "DUCKS",
+						"website": {
+							"url": "http://www.duisburg-ducks.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/duisburg-ducks"
+							},
+							"logo": {
+								"href": "/vereine/verein/duisburg-ducks/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Duisburg Ducks I",
+					"short_name": "DUCKS I",
+					"short_club_name": "DUCKS",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Duisburg Ducks",
+					"number_roman": "I",
+					"team_id": 120,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/duisburg-ducks/1-jugend"
+						}
+					}
+				},
+				"venue": "Ahauser Hockeyhalle / Ahaus",
+				"has_game_sheet": false,
+				"league": {
+					"season": {
+						"year": 2022
+					},
+					"code": "2.JGWA",
+					"name": "2. Jugendliga West A",
+					"type": "M",
+					"age_group": "Jugend",
+					"_links": {
+						"self": {
+							"href": "/saison/2022/ligen/2-jugendliga-west-a"
+						}
+					}
+				},
+				"_links": {
+					"self": {
+						"href": "/saison/2022/ligen/2-jugendliga-west-a/905_04-09-2022-16-30-2-jgwa-ahauser-maidy-dogs-i-duisburg-ducks-i"
+					}
+				}
+			},
+			{
+				"has_result": false,
+				"is_pending": false,
+				"is_regular_result": false,
+				"is_after_overtime": false,
+				"is_after_penalty_shoot_out": false,
+				"is_forfeit": false,
+				"has_been_cancelled": false,
+				"has_been_aborted": false,
+				"is_home_win": false,
+				"is_home_loss": false,
+				"is_away_win": false,
+				"is_away_loss": false,
+				"is_tie": false,
+				"comments": "",
+				"is_not_needed": false,
+				"estimated_end_time": "2022-09-10T16:00:00+02:00",
+				"id": 931,
+				"date_time": "2022-09-10T14:00:00+02:00",
+				"home_team": {
+					"club": {
+						"id": 3,
+						"name": "Düsseldorf Rams",
+						"short_name": "RAMS",
+						"website": {
+							"url": "http://www.duesseldorf-rams.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/duesseldorf-rams"
+							},
+							"logo": {
+								"href": "/vereine/verein/duesseldorf-rams/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Düsseldorf Rams II",
+					"short_name": "RAMS II",
+					"short_club_name": "RAMS",
+					"alternate_team_name": "2. Jugend",
+					"number_int": 2,
+					"club_name": "Düsseldorf Rams",
+					"number_roman": "II",
+					"team_id": 694,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/duesseldorf-rams/2-jugend"
+						}
+					}
+				},
+				"away_team": {
+					"club": {
+						"id": 46,
+						"name": "Ahauser Maidy Dogs",
+						"short_name": "ASV",
+						"website": {
+							"url": "http://www.maidy-dogs.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/ahauser-maidy-dogs"
+							},
+							"logo": {
+								"href": "/vereine/verein/ahauser-maidy-dogs/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Ahauser Maidy Dogs I",
+					"short_name": "ASV I",
+					"short_club_name": "ASV",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Ahauser Maidy Dogs",
+					"number_roman": "I",
+					"team_id": 177,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/ahauser-maidy-dogs/1-jugend"
+						}
+					}
+				},
+				"venue": "Sportpark Niederheid / Düsseldorf",
+				"has_game_sheet": false,
+				"league": {
+					"season": {
+						"year": 2022
+					},
+					"code": "2.JGWA",
+					"name": "2. Jugendliga West A",
+					"type": "M",
+					"age_group": "Jugend",
+					"_links": {
+						"self": {
+							"href": "/saison/2022/ligen/2-jugendliga-west-a"
+						}
+					}
+				},
+				"_links": {
+					"self": {
+						"href": "/saison/2022/ligen/2-jugendliga-west-a/931_10-09-2022-14-00-2-jgwa-duesseldorf-rams-ii-ahauser-maidy-dogs-i"
+					}
+				}
+			},
+			{
+				"has_result": false,
+				"is_pending": false,
+				"is_regular_result": false,
+				"is_after_overtime": false,
+				"is_after_penalty_shoot_out": false,
+				"is_forfeit": false,
+				"has_been_cancelled": false,
+				"has_been_aborted": false,
+				"is_home_win": false,
+				"is_home_loss": false,
+				"is_away_win": false,
+				"is_away_loss": false,
+				"is_tie": false,
+				"comments": "",
+				"is_not_needed": false,
+				"estimated_end_time": "2022-09-18T18:30:00+02:00",
+				"id": 982,
+				"date_time": "2022-09-18T16:30:00+02:00",
+				"home_team": {
+					"club": {
+						"id": 46,
+						"name": "Ahauser Maidy Dogs",
+						"short_name": "ASV",
+						"website": {
+							"url": "http://www.maidy-dogs.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/ahauser-maidy-dogs"
+							},
+							"logo": {
+								"href": "/vereine/verein/ahauser-maidy-dogs/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Ahauser Maidy Dogs I",
+					"short_name": "ASV I",
+					"short_club_name": "ASV",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Ahauser Maidy Dogs",
+					"number_roman": "I",
+					"team_id": 177,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/ahauser-maidy-dogs/1-jugend"
+						}
+					}
+				},
+				"away_team": {
+					"club": {
+						"id": 17,
+						"name": "Mendener Mambas",
+						"short_name": "MAM",
+						"website": {
+							"url": "http://www.mambas-msc.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/mendener-mambas"
+							},
+							"logo": {
+								"href": "/vereine/verein/mendener-mambas/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Mendener Mambas I",
+					"short_name": "MAM I",
+					"short_club_name": "MAM",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Mendener Mambas",
+					"number_roman": "I",
+					"team_id": 255,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/mendener-mambas/1-jugend"
+						}
+					}
+				},
+				"venue": "Ahauser Hockeyhalle / Ahaus",
+				"has_game_sheet": false,
+				"league": {
+					"season": {
+						"year": 2022
+					},
+					"code": "2.JGWA",
+					"name": "2. Jugendliga West A",
+					"type": "M",
+					"age_group": "Jugend",
+					"_links": {
+						"self": {
+							"href": "/saison/2022/ligen/2-jugendliga-west-a"
+						}
+					}
+				},
+				"_links": {
+					"self": {
+						"href": "/saison/2022/ligen/2-jugendliga-west-a/982_18-09-2022-16-30-2-jgwa-ahauser-maidy-dogs-i-mendener-mambas-i"
+					}
+				}
+			},
+			{
+				"has_result": false,
+				"is_pending": false,
+				"is_regular_result": false,
+				"is_after_overtime": false,
+				"is_after_penalty_shoot_out": false,
+				"is_forfeit": false,
+				"has_been_cancelled": false,
+				"has_been_aborted": false,
+				"is_home_win": false,
+				"is_home_loss": false,
+				"is_away_win": false,
+				"is_away_loss": false,
+				"is_tie": false,
+				"comments": "",
+				"is_not_needed": false,
+				"estimated_end_time": "2022-10-30T18:30:00+01:00",
+				"id": 432,
+				"date_time": "2022-10-30T16:30:00+01:00",
+				"home_team": {
+					"club": {
+						"id": 46,
+						"name": "Ahauser Maidy Dogs",
+						"short_name": "ASV",
+						"website": {
+							"url": "http://www.maidy-dogs.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/ahauser-maidy-dogs"
+							},
+							"logo": {
+								"href": "/vereine/verein/ahauser-maidy-dogs/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Ahauser Maidy Dogs I",
+					"short_name": "ASV I",
+					"short_club_name": "ASV",
+					"alternate_team_name": "1. Jugend",
+					"number_int": 1,
+					"club_name": "Ahauser Maidy Dogs",
+					"number_roman": "I",
+					"team_id": 177,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/ahauser-maidy-dogs/1-jugend"
+						}
+					}
+				},
+				"away_team": {
+					"club": {
+						"id": 3,
+						"name": "Düsseldorf Rams",
+						"short_name": "RAMS",
+						"website": {
+							"url": "http://www.duesseldorf-rams.de"
+						},
+						"_links": {
+							"self": {
+								"href": "/vereine/verein/duesseldorf-rams"
+							},
+							"logo": {
+								"href": "/vereine/verein/duesseldorf-rams/logo.jpg"
+							}
+						}
+					},
+					"full_name": "Düsseldorf Rams II",
+					"short_name": "RAMS II",
+					"short_club_name": "RAMS",
+					"alternate_team_name": "2. Jugend",
+					"number_int": 2,
+					"club_name": "Düsseldorf Rams",
+					"number_roman": "II",
+					"team_id": 694,
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/duesseldorf-rams/2-jugend"
+						}
+					}
+				},
+				"venue": "Ahauser Hockeyhalle / Ahaus",
+				"has_game_sheet": false,
+				"league": {
+					"season": {
+						"year": 2022
+					},
+					"code": "2.JGWA",
+					"name": "2. Jugendliga West A",
+					"type": "M",
+					"age_group": "Jugend",
+					"_links": {
+						"self": {
+							"href": "/saison/2022/ligen/2-jugendliga-west-a"
+						}
+					}
+				},
+				"_links": {
+					"self": {
+						"href": "/saison/2022/ligen/2-jugendliga-west-a/432_30-10-2022-16-30-2-jgwa-ahauser-maidy-dogs-i-duesseldorf-rams-ii"
+					}
+				}
+			}
+		],
+		"leagues": [
+			{
+				"season": {
+					"year": 2022
+				},
+				"code": "PJug",
+				"name": "Pokalwettbewerb Jugend",
+				"type": "P",
+				"age_group": "Jugend",
+				"_links": {
+					"self": {
+						"href": "/saison/2022/ligen/pokalwettbewerb-jugend"
+					}
+				}
+			},
+			{
+				"season": {
+					"year": 2022
+				},
+				"code": "2.JGWA",
+				"name": "2. Jugendliga West A",
+				"type": "M",
+				"age_group": "Jugend",
+				"_links": {
+					"self": {
+						"href": "/saison/2022/ligen/2-jugendliga-west-a"
+					}
+				}
+			}
+		]
+	}
+}

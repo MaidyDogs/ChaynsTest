@@ -1,0 +1,526 @@
+{
+	"placements": {
+		"1": {
+			"team_name": "Highlander Lüdenscheid I",
+			"total": {
+				"games": 2,
+				"wins": 2,
+				"wins_in_penalty_shoot_out": 0,
+				"ties": 0,
+				"losses_in_penalty_shoot_out": 0,
+				"losses": 0,
+				"goals_for": 23,
+				"goals_against": 7,
+				"goals_difference": 16,
+				"points": 6,
+				"points_percentage": 100
+			},
+			"home": {
+				"games": 1,
+				"wins": 1,
+				"wins_in_penalty_shoot_out": 0,
+				"ties": 0,
+				"losses_in_penalty_shoot_out": 0,
+				"losses": 0,
+				"goals_for": 11,
+				"goals_against": 3,
+				"goals_difference": 8,
+				"points": 3,
+				"points_percentage": 100
+			},
+			"away": {
+				"games": 1,
+				"wins": 1,
+				"wins_in_penalty_shoot_out": 0,
+				"ties": 0,
+				"losses_in_penalty_shoot_out": 0,
+				"losses": 0,
+				"goals_for": 12,
+				"goals_against": 4,
+				"goals_difference": 8,
+				"points": 3,
+				"points_percentage": 100
+			},
+			"has_modification": false,
+			"team": {
+				"club": {
+					"id": 10,
+					"name": "Highlander Lüdenscheid",
+					"short_name": "HIGH",
+					"website": {
+						"url": "http://www.highlander-luedenscheid.de"
+					},
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/highlander-luedenscheid"
+						},
+						"logo": {
+							"href": "/vereine/verein/highlander-luedenscheid/logo.jpg"
+						}
+					}
+				},
+				"full_name": "Highlander Lüdenscheid I",
+				"short_name": "HIGH I",
+				"short_club_name": "HIGH",
+				"alternate_team_name": "1. Herren",
+				"number_int": 1,
+				"club_name": "Highlander Lüdenscheid",
+				"number_roman": "I",
+				"team_id": 237,
+				"_links": {
+					"self": {
+						"href": "/vereine/verein/highlander-luedenscheid/1-herren"
+					}
+				}
+			},
+			"groups": []
+		},
+		"2": {
+			"team_name": "Commanders Velbert I",
+			"total": {
+				"games": 1,
+				"wins": 1,
+				"wins_in_penalty_shoot_out": 0,
+				"ties": 0,
+				"losses_in_penalty_shoot_out": 0,
+				"losses": 0,
+				"goals_for": 14,
+				"goals_against": 5,
+				"goals_difference": 9,
+				"points": 3,
+				"points_percentage": 100
+			},
+			"home": {
+				"games": 1,
+				"wins": 1,
+				"wins_in_penalty_shoot_out": 0,
+				"ties": 0,
+				"losses_in_penalty_shoot_out": 0,
+				"losses": 0,
+				"goals_for": 14,
+				"goals_against": 5,
+				"goals_difference": 9,
+				"points": 3,
+				"points_percentage": 100
+			},
+			"away": {
+				"games": 0,
+				"wins": 0,
+				"wins_in_penalty_shoot_out": 0,
+				"ties": 0,
+				"losses_in_penalty_shoot_out": 0,
+				"losses": 0,
+				"goals_for": 0,
+				"goals_against": 0,
+				"goals_difference": 0,
+				"points": 0
+			},
+			"has_modification": false,
+			"team": {
+				"club": {
+					"id": 25,
+					"name": "Commanders Velbert",
+					"short_name": "COMM",
+					"website": {
+						"url": "http://www.commanders2002.de"
+					},
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/commanders-velbert"
+						},
+						"logo": {
+							"href": "/vereine/verein/commanders-velbert/logo.jpg"
+						}
+					}
+				},
+				"full_name": "Commanders Velbert I",
+				"short_name": "COMM I",
+				"short_club_name": "COMM",
+				"alternate_team_name": "1. Herren",
+				"number_int": 1,
+				"club_name": "Commanders Velbert",
+				"number_roman": "I",
+				"team_id": 29,
+				"_links": {
+					"self": {
+						"href": "/vereine/verein/commanders-velbert/1-herren"
+					}
+				}
+			},
+			"groups": []
+		},
+		"3": {
+			"team_name": "Ahauser Maidy Dogs I",
+			"total": {
+				"games": 1,
+				"wins": 1,
+				"wins_in_penalty_shoot_out": 0,
+				"ties": 0,
+				"losses_in_penalty_shoot_out": 0,
+				"losses": 0,
+				"goals_for": 8,
+				"goals_against": 4,
+				"goals_difference": 4,
+				"points": 3,
+				"points_percentage": 100
+			},
+			"home": {
+				"games": 0,
+				"wins": 0,
+				"wins_in_penalty_shoot_out": 0,
+				"ties": 0,
+				"losses_in_penalty_shoot_out": 0,
+				"losses": 0,
+				"goals_for": 0,
+				"goals_against": 0,
+				"goals_difference": 0,
+				"points": 0
+			},
+			"away": {
+				"games": 1,
+				"wins": 1,
+				"wins_in_penalty_shoot_out": 0,
+				"ties": 0,
+				"losses_in_penalty_shoot_out": 0,
+				"losses": 0,
+				"goals_for": 8,
+				"goals_against": 4,
+				"goals_difference": 4,
+				"points": 3,
+				"points_percentage": 100
+			},
+			"has_modification": false,
+			"team": {
+				"club": {
+					"id": 46,
+					"name": "Ahauser Maidy Dogs",
+					"short_name": "ASV",
+					"website": {
+						"url": "http://www.maidy-dogs.de"
+					},
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/ahauser-maidy-dogs"
+						},
+						"logo": {
+							"href": "/vereine/verein/ahauser-maidy-dogs/logo.jpg"
+						}
+					}
+				},
+				"full_name": "Ahauser Maidy Dogs I",
+				"short_name": "ASV I",
+				"short_club_name": "ASV",
+				"alternate_team_name": "1. Herren",
+				"number_int": 1,
+				"club_name": "Ahauser Maidy Dogs",
+				"number_roman": "I",
+				"team_id": 300,
+				"_links": {
+					"self": {
+						"href": "/vereine/verein/ahauser-maidy-dogs/1-herren"
+					}
+				}
+			},
+			"groups": []
+		},
+		"4": {
+			"team_name": "Empelde Maddogs I",
+			"total": {
+				"games": 1,
+				"wins": 0,
+				"wins_in_penalty_shoot_out": 0,
+				"ties": 0,
+				"losses_in_penalty_shoot_out": 0,
+				"losses": 1,
+				"goals_for": 4,
+				"goals_against": 8,
+				"goals_difference": -4,
+				"points": 0,
+				"points_percentage": 0
+			},
+			"home": {
+				"games": 1,
+				"wins": 0,
+				"wins_in_penalty_shoot_out": 0,
+				"ties": 0,
+				"losses_in_penalty_shoot_out": 0,
+				"losses": 1,
+				"goals_for": 4,
+				"goals_against": 8,
+				"goals_difference": -4,
+				"points": 0,
+				"points_percentage": 0
+			},
+			"away": {
+				"games": 0,
+				"wins": 0,
+				"wins_in_penalty_shoot_out": 0,
+				"ties": 0,
+				"losses_in_penalty_shoot_out": 0,
+				"losses": 0,
+				"goals_for": 0,
+				"goals_against": 0,
+				"goals_difference": 0,
+				"points": 0
+			},
+			"has_modification": false,
+			"team": {
+				"club": {
+					"id": 95,
+					"name": "Empelde Maddogs",
+					"short_name": "MADD",
+					"website": {
+						"url": "http://www.empelde-maddogs.de"
+					},
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/empelde-maddogs"
+						},
+						"logo": {
+							"href": "/vereine/verein/empelde-maddogs/logo.jpg"
+						}
+					}
+				},
+				"full_name": "Empelde Maddogs I",
+				"short_name": "MADD I",
+				"short_club_name": "MADD",
+				"alternate_team_name": "1. Herren",
+				"number_int": 1,
+				"club_name": "Empelde Maddogs",
+				"number_roman": "I",
+				"team_id": 497,
+				"_links": {
+					"self": {
+						"href": "/vereine/verein/empelde-maddogs/1-herren"
+					}
+				}
+			},
+			"groups": []
+		},
+		"5": {
+			"team_name": "TV Paderborn I",
+			"total": {
+				"games": 1,
+				"wins": 0,
+				"wins_in_penalty_shoot_out": 0,
+				"ties": 0,
+				"losses_in_penalty_shoot_out": 0,
+				"losses": 1,
+				"goals_for": 4,
+				"goals_against": 12,
+				"goals_difference": -8,
+				"points": 0,
+				"points_percentage": 0
+			},
+			"home": {
+				"games": 1,
+				"wins": 0,
+				"wins_in_penalty_shoot_out": 0,
+				"ties": 0,
+				"losses_in_penalty_shoot_out": 0,
+				"losses": 1,
+				"goals_for": 4,
+				"goals_against": 12,
+				"goals_difference": -8,
+				"points": 0,
+				"points_percentage": 0
+			},
+			"away": {
+				"games": 0,
+				"wins": 0,
+				"wins_in_penalty_shoot_out": 0,
+				"ties": 0,
+				"losses_in_penalty_shoot_out": 0,
+				"losses": 0,
+				"goals_for": 0,
+				"goals_against": 0,
+				"goals_difference": 0,
+				"points": 0
+			},
+			"has_modification": false,
+			"team": {
+				"club": {
+					"id": 106,
+					"name": "TV Paderborn",
+					"short_name": "TVPAD",
+					"website": {
+						"url": "http://www.tv-skaterhockey.de/"
+					},
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/tv-paderborn"
+						},
+						"logo": {
+							"href": "/vereine/verein/tv-paderborn/logo.jpg"
+						}
+					}
+				},
+				"full_name": "TV Paderborn I",
+				"short_name": "TVPAD I",
+				"short_club_name": "TVPAD",
+				"alternate_team_name": "1. Herren",
+				"number_int": 1,
+				"club_name": "TV Paderborn",
+				"number_roman": "I",
+				"team_id": 393,
+				"_links": {
+					"self": {
+						"href": "/vereine/verein/tv-paderborn/1-herren"
+					}
+				}
+			},
+			"groups": []
+		},
+		"6": {
+			"team_name": "Mendener Mambas II",
+			"total": {
+				"games": 1,
+				"wins": 0,
+				"wins_in_penalty_shoot_out": 0,
+				"ties": 0,
+				"losses_in_penalty_shoot_out": 0,
+				"losses": 1,
+				"goals_for": 3,
+				"goals_against": 11,
+				"goals_difference": -8,
+				"points": 0,
+				"points_percentage": 0
+			},
+			"home": {
+				"games": 0,
+				"wins": 0,
+				"wins_in_penalty_shoot_out": 0,
+				"ties": 0,
+				"losses_in_penalty_shoot_out": 0,
+				"losses": 0,
+				"goals_for": 0,
+				"goals_against": 0,
+				"goals_difference": 0,
+				"points": 0
+			},
+			"away": {
+				"games": 1,
+				"wins": 0,
+				"wins_in_penalty_shoot_out": 0,
+				"ties": 0,
+				"losses_in_penalty_shoot_out": 0,
+				"losses": 1,
+				"goals_for": 3,
+				"goals_against": 11,
+				"goals_difference": -8,
+				"points": 0,
+				"points_percentage": 0
+			},
+			"has_modification": false,
+			"team": {
+				"club": {
+					"id": 17,
+					"name": "Mendener Mambas",
+					"short_name": "MAM",
+					"website": {
+						"url": "http://www.mambas-msc.de"
+					},
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/mendener-mambas"
+						},
+						"logo": {
+							"href": "/vereine/verein/mendener-mambas/logo.jpg"
+						}
+					}
+				},
+				"full_name": "Mendener Mambas II",
+				"short_name": "MAM II",
+				"short_club_name": "MAM",
+				"alternate_team_name": "2. Herren",
+				"number_int": 2,
+				"club_name": "Mendener Mambas",
+				"number_roman": "II",
+				"team_id": 253,
+				"_links": {
+					"self": {
+						"href": "/vereine/verein/mendener-mambas/2-herren"
+					}
+				}
+			},
+			"groups": []
+		},
+		"7": {
+			"team_name": "Duisburg Ducks II",
+			"total": {
+				"games": 1,
+				"wins": 0,
+				"wins_in_penalty_shoot_out": 0,
+				"ties": 0,
+				"losses_in_penalty_shoot_out": 0,
+				"losses": 1,
+				"goals_for": 5,
+				"goals_against": 14,
+				"goals_difference": -9,
+				"points": 0,
+				"points_percentage": 0
+			},
+			"home": {
+				"games": 0,
+				"wins": 0,
+				"wins_in_penalty_shoot_out": 0,
+				"ties": 0,
+				"losses_in_penalty_shoot_out": 0,
+				"losses": 0,
+				"goals_for": 0,
+				"goals_against": 0,
+				"goals_difference": 0,
+				"points": 0
+			},
+			"away": {
+				"games": 1,
+				"wins": 0,
+				"wins_in_penalty_shoot_out": 0,
+				"ties": 0,
+				"losses_in_penalty_shoot_out": 0,
+				"losses": 1,
+				"goals_for": 5,
+				"goals_against": 14,
+				"goals_difference": -9,
+				"points": 0,
+				"points_percentage": 0
+			},
+			"has_modification": false,
+			"team": {
+				"club": {
+					"id": 1,
+					"name": "Duisburg Ducks",
+					"short_name": "DUCKS",
+					"website": {
+						"url": "http://www.duisburg-ducks.de"
+					},
+					"_links": {
+						"self": {
+							"href": "/vereine/verein/duisburg-ducks"
+						},
+						"logo": {
+							"href": "/vereine/verein/duisburg-ducks/logo.jpg"
+						}
+					}
+				},
+				"full_name": "Duisburg Ducks II",
+				"short_name": "DUCKS II",
+				"short_club_name": "DUCKS",
+				"alternate_team_name": "2. Herren",
+				"number_int": 2,
+				"club_name": "Duisburg Ducks",
+				"number_roman": "II",
+				"team_id": 25,
+				"_links": {
+					"self": {
+						"href": "/vereine/verein/duisburg-ducks/2-herren"
+					}
+				}
+			},
+			"groups": []
+		}
+	},
+	"has_been_manipulated": false,
+	"has_modification": false,
+	"modifications": []
+}

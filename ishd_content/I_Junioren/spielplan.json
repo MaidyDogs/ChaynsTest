@@ -1,0 +1,21 @@
+{
+	"page": 1,
+	"limit": 200,
+	"pages": 1,
+	"total": 0,
+	"_links": {
+		"self": {
+			"href": "/vereine/verein/ahauser-maidy-dogs/1-junioren/spielplan/2022?page=1&limit=200"
+		},
+		"first": {
+			"href": "/vereine/verein/ahauser-maidy-dogs/1-junioren/spielplan/2022?page=1&limit=200"
+		},
+		"last": {
+			"href": "/vereine/verein/ahauser-maidy-dogs/1-junioren/spielplan/2022?page=1&limit=200"
+		}
+	},
+	"_embedded": {
+		"schedule": [],
+		"leagues": []
+	}
+}
